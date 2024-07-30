@@ -72,7 +72,7 @@ Raspberry Pi Zero W with a microphone, power bank, and custom case for capturing
 **Assembly and Software Installation:** Refer to this complete guide: [Guide Link]
 
 ## Conclusion
-Following these steps, Tab will be fully functional and ready for development, testing, and deployment. For more details and the complete process of development, please refer to this: [Complete Guide Link]
+Following these steps, Tab will be fully functional and ready for development, testing, and deployment. For more details and the complete process of development, please refer to this: [[Complete Guide Link]](https://www.hackster.io/tab/tab-your-second-brain-ce348c)
 
 ---
 
