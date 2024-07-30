@@ -42,7 +42,7 @@
 #### Backend Setup
 The backend leverages Supabase for database management, authentication, and compute functions. It processes audio recordings through serverless functions, including transcription and data storage. Additionally, it handles chat interactions and generates responses using AI models.
 
-- **Supabase setup and deployment:** Refer to this guide: [Guide Link]
+- **Supabase setup and deployment:** Refer to this guide: [[Guide Link]](https://www.hackster.io/tab/tab-your-second-brain-ce348c)
 - **Functions:**
   - Process Audio: Handles audio uploads and transcription.
   - Chat Handler: Manages chat interactions and generates responses.
@@ -55,7 +55,7 @@ The backend leverages Supabase for database management, authentication, and comp
 #### Web App Development
 Enables user interaction with the personal assistant and access to conversation transcriptions and insights.
 
-- **Setup and deployment:** Refer to this complete guide: [Guide Link]
+- **Setup and deployment:** Refer to this complete guide: [[Guide Link]](https://www.hackster.io/tab/tab-your-second-brain-ce348c)
 
 ### Hardware Development
 Raspberry Pi Zero W with a microphone, power bank, and custom case for capturing and processing audio recordings.
@@ -68,8 +68,11 @@ Raspberry Pi Zero W with a microphone, power bank, and custom case for capturing
 - Microphone
 - Power bank
 - Soldering kit
+  
+**Assembly and Software Installation:** Refer to this complete guide: [[Guide Link]](https://www.hackster.io/tab/tab-your-second-brain-ce348c)
 
-**Assembly and Software Installation:** Refer to this complete guide: [Guide Link]
+## Tab: Architecture
+![tab-arch_(1)_GvQGv0V0xy](https://github.com/user-attachments/assets/b26b01fd-1f4d-4fa2-98f2-fd0ad33081ff)
 
 ## Conclusion
 Following these steps, Tab will be fully functional and ready for development, testing, and deployment. For more details and the complete process of development, please refer to this: [[Complete Guide Link]](https://www.hackster.io/tab/tab-your-second-brain-ce348c)
