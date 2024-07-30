@@ -11,7 +11,7 @@
 - **Database:** Supabase (PostgreSQL)
 
 ### Hardware Device
-- **Processor:** ARM-based CPU (Raspberry Pi Zero W)
+- **Processor:** 1GHz, single-core CPU (Raspberry Pi Zero W)
 - **RAM:** 512MB LPDDR2
 - **Storage:** MicroSD card
 - **Ports:** Mini HDMI, Micro USB OTG, Micro USB power, GPIO (40-pin header)
@@ -56,7 +56,6 @@ The backend leverages Supabase for database management, authentication, and comp
 Enables user interaction with the personal assistant and access to conversation transcriptions and insights.
 
 - **Setup and deployment:** Refer to this complete guide: [Guide Link]
-- **Components of web app:** [Components List]
 
 ### Hardware Development
 Raspberry Pi Zero W with a microphone, power bank, and custom case for capturing and processing audio recordings.
